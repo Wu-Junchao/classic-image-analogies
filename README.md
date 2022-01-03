@@ -1,5 +1,7 @@
 # README
 
+This is my final project for UIUC CS 445 computational photography course. It is a python implementation for "image analogies" (2021) paper. 
+
 #### Organization
 
 * Main.py includes main function. 
